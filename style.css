@@ -1,0 +1,24 @@
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+}
+#gameDiv{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: 3px solid;
+    border-radius: 23px;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 30px;
+    background-color: darkgray;
+    text-align: center;
+    width: fit-content;
+    margin-top: 225px;
+    margin-left: 550px;
+}
+#playerText{
+    color: blue;
+}
+#computerText{
+    color: red;
+}
